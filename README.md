@@ -22,7 +22,7 @@ A combination between people tracking and age and gender detection
   python people_tracker.py --prototxt deploy.prototxt --model res10_300x300_ssd_iter_140000.caffemodel  
 
 
-# Result
+# Result :
 - get 16fps in my Core i5 desktop with the solution of 640x480.
 - Basically, the available age and gender models are fairly accurate.
 - If you want to train your own models for age and gender detection, have a look at https://github.com/dpressel/rude-carnie.
