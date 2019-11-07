@@ -27,14 +27,14 @@ A combination between people tracking and age and gender detection
 - Basically, the available age and gender models are fairly accurate.
 - If you want to train your own models for age and gender detection, have a look at https://github.com/dpressel/rude-carnie.
 
-# References
+# References:
 A great thank to those who have done fantastic work
 - https://github.com/eveningglow/age-and-gender-classification
 - https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
 
-# Notes
+# Notes:
 - Inform me in case you have any problem with running the code.
 - Any related idea is welcome at cavidpark@gmail.com
 
-# UPDATE
+# UPDATE:
 - Age and gender detection don't need to be performed every frame. Instead, we can detect every 5 or 10 frames to improve the speed of the program. 
