@@ -40,4 +40,4 @@ A great thank to those who have done fantastic work
 - Age and gender detection don't need to be performed every frame. Instead, we can detect every 5 or 10 frames to improve the speed of the program. 
 # Result :
 
-![](results_images/results%20images.PNG)
+![](results%20images/age1.PNG)
