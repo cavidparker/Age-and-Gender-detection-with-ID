@@ -1,6 +1,6 @@
 # People-tracking-with-Age-and-Gender-detection
 A combination between people tracking and age and gender detection
-# Abstract
+# Abstract :
 - Combining people tracking with age and gender detection is a good idea for many and many applications in real life scenarios such as caffe store management to gather the information of customers for further analysis, or in/out people control for security purposes in buildings or University...
 - This is just a small step of putting the state-of-the-art image processing techniques together.
 
@@ -34,7 +34,7 @@ A great thank to those who have done fantastic work
 
 # Notes:
 - Inform me in case you have any problem with running the code.
-- Any related idea is welcome at cavidpark@gmail.com
+- Any related idea is welcome at cavidpark@gmail.com 
 
 # UPDATE:
 - Age and gender detection don't need to be performed every frame. Instead, we can detect every 5 or 10 frames to improve the speed of the program. 
